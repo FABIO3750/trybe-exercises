@@ -1,0 +1,8 @@
+bash
+bob
+casa
+fabio
+internet
+lorena
+trybe
+unix
